@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/clientes/inserir
+Content-Type: application/json
+
+{
+  "cpf": "82328490026",
+  "nome": "Teste1",
+  "email": "teste.teste1@gmail.com",
+  "telefone": "11911645103"
+}
